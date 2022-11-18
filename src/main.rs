@@ -130,7 +130,6 @@ fn main() {
     
     imgbuff.save("output.jpg").unwrap();
 
+    println!("Done!");
 
-
-    println!("Hello, world!");
 }
